@@ -1,0 +1,12 @@
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/cucumberOptions/TestRunner.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/pages/HomePage.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/pages/PrivathaftpflichtDataEntryPage.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/pages/PrivathaftpflichtPage.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/pages/RecommendationResultPage.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/stepDefinitions/ComparisonPageStepDefinitions.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/stepDefinitions/DSLCalcStepdefinitions.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/stepDefinitions/HomePageStepDefinitions.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/stepDefinitions/Hooks.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/utils/CookiesManager.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/utils/GenericLocators.java
+/Users/vaibhav/Documents/test/Verivox/VerivoxPrivathaftpflicht/src/test/java/utils/WebDriverManager.java
