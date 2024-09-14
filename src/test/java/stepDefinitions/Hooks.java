@@ -2,6 +2,7 @@ package stepDefinitions;
 
 import io.cucumber.java.After;
 import io.cucumber.java.AfterStep;
+import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
@@ -39,5 +40,11 @@ public class Hooks {
            scenario.attach(fileContent, "image/png", "image");
 
         }
+    }
+
+    @Before
+    public void beforeScenariosTest()
+    {
+        System.out.println("Starting with Cucumber Scenarios");
     }
 }
