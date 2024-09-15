@@ -8,10 +8,12 @@ Chrome and ChromeDriver matching your Chrome version: Download ChromeDriver
 Setup
 Clone the repository:
 
-bash
+
 Copy code
-git clone https://github.com/yourusername/verivox-test-scenarios.git
-cd verivox-test-scenarios
+git clone https://github.com/git-vaibhav/VerivoxTest.git
+cd verivoxTest
+
+
 Install dependencies:
 
 bash
